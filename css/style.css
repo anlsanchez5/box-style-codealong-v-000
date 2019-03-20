@@ -370,7 +370,7 @@ section {
 
 /*////////// FOOTER //////////*/
 footer {
-  text-alight: center;
+  text-align: center;
   font-size: 0.75em;
   padding: 10px;
   background: #eee;
