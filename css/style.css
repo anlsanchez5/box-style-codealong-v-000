@@ -214,9 +214,11 @@ header {
   margin: 0 0 30px;
 }
 
-
 /*////////// NAVBAR //////////*/
 
+#navbar {
+  position: fixed;
+}
 
 
 /*////////// LOGO //////////*/
