@@ -210,6 +210,9 @@ background: linear-gradient(
 
 /*////////// HEADER //////////*/
 
+header {
+  margin: 0 0 30px;
+}
 
 
 /*////////// NAVBAR //////////*/
